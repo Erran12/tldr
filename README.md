@@ -7,19 +7,6 @@
 [![GitHub contributors][contributors-image]][contributors-url]
 [![license][license-image]][license-url]
 
-[travis-url]: https://travis-ci.org/tldr-pages/tldr/builds
-[travis-image]: https://travis-ci.org/tldr-pages/tldr.svg?branch=master
-[gitter-url]: https://gitter.im/tldr-pages/tldr
-[gitter-image]: https://badges.gitter.im/tldr-pages/tldr.svg
-[prs-merged-url]: https://github.com/tldr-pages/tldr/pulls?q=is:pr+is:merged
-[prs-merged-image]: https://img.shields.io/github/issues-pr-closed-raw/tldr-pages/tldr.svg?label=merged+PRs
-[issuestats-url]: http://isitmaintained.com/project/tldr-pages/tldr
-[issuestats-image]: http://isitmaintained.com/badge/resolution/tldr-pages/tldr.svg
-[contributors-url]: https://github.com/tldr-pages/tldr/graphs/contributors
-[contributors-image]: https://img.shields.io/github/contributors/tldr-pages/tldr.svg
-[license-url]: https://github.com/tldr-pages/tldr/blob/master/LICENSE.md
-[license-image]: https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg
-
 A collection of simplified and community-driven man pages.
 
 Install it with `npm install -g tldr`
